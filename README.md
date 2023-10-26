@@ -17,13 +17,12 @@ I registered here recently. I decided to try myself as a programmer. But my skil
 ### Skills
 
 <p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> <a href="https://canva.com/" target="_blank" rel="noreferrer"><img src="https://tadviser.ru/images/5/56/Canva-logo.png" width="36" height="36" alt="Canva" /></a></p>
 
 
 ### Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/kbltn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/KBLTN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/kbltn)  
+[<img src='https://api.imperialplugins.com/v2/Products/168/ProductLogo?Size=Large' alt='discord' height='40'>](https://discord.com/users/kbltn)  [<img src='https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png' alt='telegram' height='40'>](https://t.me/KBLTN)  [<img src='https://deskmed.ru/wp-content/files/photo-1-1536x1536.png' alt='vk' height='40'>](https://vk.com/kbltn)  
 
 
 
