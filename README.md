@@ -24,7 +24,7 @@ At the moment I decided to start learning the Golang language. Let's see what co
 
 ### Socials
 
-[<img src='https://api.imperialplugins.com/v2/Products/168/ProductLogo?Size=Large' alt='discord' height='40'>](https://discord.com/users/kbltn)  [<img src='https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png' alt='telegram' height='40'>](https://t.me/KBLTN)  [<img src='https://deskmed.ru/wp-content/files/photo-1-1536x1536.png' alt='vk' height='40'>](https://vk.com/kbltn)  
+[<img src='https://api.imperialplugins.com/v2/Products/168/ProductLogo?Size=Large' alt='discord' height='40'>](https://discord.com/users/kbltn)  [<img src='https://logos-download.com/wp-content/uploads/2016/07/Telegram_5.x_version_2019_Logo.png' alt='telegram' height='40'>](https://t.me/KBLTN)  [<img src='https://clipground.com/images/vk-logo-png-5.png' alt='vk' height='40'>](https://vk.com/kbltn)  
 
 
 
