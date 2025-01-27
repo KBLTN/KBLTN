@@ -5,9 +5,9 @@ Hi 👋 My name is Konstantin
 I am just learning
 ------------------
 
-I registered here recently. I decided to try myself as a programmer. But my skill is absolutely zero :( 
+I registered here recently. I decided to try myself as a programmer. 
 
-At the moment I decided to start learning the Golang language. Let's see what comes of this :)
+At the moment I decided to start learning the Golang language :)
 
 
 * 🌍  I'm based in **Moscow**
